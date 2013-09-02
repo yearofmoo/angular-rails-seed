@@ -1,0 +1,16 @@
+development:
+  host: localhost
+  adapter: postgresql
+  database: mydb
+  username:
+  password: mypassword
+  pool: 5
+  timeout: 5000
+test:
+  host: localhost
+  adapter: postgresql
+  database: mydb_test
+  username:
+  password: mypassword
+  pool: 5
+  timeout: 5000

@@ -1,0 +1,2 @@
+karma: rake karma:autotest
+rspec: rake rspec:autotest

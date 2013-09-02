@@ -1,0 +1,18 @@
+{
+  "name": "...",
+  "version": "0.0.0",
+  "homepage": "...",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-shell": "~0.2.2",
+    "grunt-karma": "~0.6.1",
+    "bower": "latest",
+    "karma": "0.10.1",
+    "karma-osx-reporter": "latest",
+    "karma-jasmine": "latest",
+    "karma-chrome-launcher": "latest",
+    "karma-safari-launcher": "latest",
+    "karma-firefox-launcher": "latest",
+    "karma-coverage": "~0.1.0"
+  }
+}

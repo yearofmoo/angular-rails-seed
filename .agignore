@@ -1,0 +1,6 @@
+node_modules/
+bower_components/
+public/_assets/
+log/
+tmp/
+public/lib

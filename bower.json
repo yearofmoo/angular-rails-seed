@@ -1,0 +1,7 @@
+{
+  "name": "...",
+  "dependencies": {
+    "jquery": "~2.0.2",
+    "greensock-js": "latest"
+  }
+}

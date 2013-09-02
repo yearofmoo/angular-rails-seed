@@ -1,0 +1,11 @@
+.DS_Store
+/.bundle
+/log/*.log
+/tmp
+public/_assets
+node_modules/
+bower_components/
+libpeerconnection.log
+npm-debug.log
+Gemfile.lock
+/coverage/
